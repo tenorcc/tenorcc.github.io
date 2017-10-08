@@ -1,0 +1,3 @@
+Portāla veidotāji ir par visiem pieejamu informāciju. Mēs neapgalvojam, ka publicētā informācija vienmēr būs patiesa, jo mēs esam tikai cilvēki un mēs mēdzam pieļaut kļūdas. Galvenais ir tās godīgi atzīt, paskaidrot kā tika pieļauta kļūda, kā to var izlabot un piefiksēt visus veiktos labojumus visiem pieejamā vietā.
+
+Portāls izmanto Google Analītiku. Tas tiek darīts ar mērķi uzlabot lapas kvalitāti, saprotot, kura portāla daļa ir vispieprasītākā un kura ir jāuzlabo. Mēs vēlamies mācīties no saviem lasītājiem, lai sniegtu Tev vislabāko saturu visatraktīvākajā un vissakarīgākajā veidā. Google Analītikas dati būs pieejami visiem portāla lasītājiem apstrādātā formātā.
