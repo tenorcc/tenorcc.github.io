@@ -41,7 +41,7 @@ var Tenor = new TenorCore();
 		// 	navigation.classList.add("navigation--hidden");
 		// 	navigation.style.top = "-"+navigationHeight+"px";
 		// }
-
+		
 		window.addEventListener("scroll", Tenor.debounce(function(){
 			if(window.scrollY < headerHeight - navigationHeight) {
 				navigation.classList.remove("navigation__shadow");
